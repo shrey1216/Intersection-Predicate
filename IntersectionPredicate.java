@@ -1,4 +1,4 @@
-public class Homework3 {
+public class IntersectionPredicate {
     public static void main (String[]args){
 
         /*
