@@ -107,6 +107,8 @@ public class IntersectionPredicate {
         }
     }
 
+    //if needed
+    
     //public static boolean Intersect(int[] a, int[] b, int[] c, int[] d){
     //    if (IntersectProp(a, b, c, d)){
     //        return true;
