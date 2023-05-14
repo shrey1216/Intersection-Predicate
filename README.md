@@ -1,1 +1,2 @@
 # Intersection-Predicate
+The Intersection predicate code determines whether two line segments, AB and CD, intersect in a "T" shape. It takes four points, A, B, C, and D, as inputs and checks if the line segments intersect at exactly one point. Additionally, the code verifies that the point of intersection, P, is an endpoint of one segment and lies inside the other segment. This code is useful for analyzing geometric relationships and can be applied in various applications involving line segment intersections.
